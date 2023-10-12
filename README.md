@@ -3,4 +3,4 @@
 - 🧑‍💻 - I'm currently learning Java,
 - 💬 - My discord - `glicz`,
 - 📧 - Contact mail - [`gliczdev@outlook.com`](mailto:gliczdev@outlook.com),
-- ⚡ - Fun fact - I like *really* FNaF.
+- ⚡ - Fun fact - I *really* like FNaF.
